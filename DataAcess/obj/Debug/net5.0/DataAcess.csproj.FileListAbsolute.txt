@@ -1,0 +1,65 @@
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.AssemblyReference.cache
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfoInputs.cache
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfo.cs
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CoreCompileInputs.cache
+D:\Back-END .NET\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.deps.json
+D:\Back-END .NET\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.dll
+D:\Back-END .NET\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.pdb
+D:\Back-END .NET\GroupProject\DataAcess\bin\Debug\net5.0\BussinessObject.dll
+D:\Back-END .NET\GroupProject\DataAcess\bin\Debug\net5.0\BussinessObject.pdb
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.AssemblyReference.cache
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfoInputs.cache
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfo.cs
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CoreCompileInputs.cache
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CopyComplete
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.dll
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\refint\DataAcess.dll
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.pdb
+D:\Back-END .NET\GroupProject\DataAcess\obj\Debug\net5.0\ref\DataAcess.dll
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.deps.json
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.dll
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.pdb
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\BussinessObject2.dll
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\BussinessObject2.pdb
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.AssemblyReference.cache
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfoInputs.cache
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfo.cs
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CoreCompileInputs.cache
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CopyComplete
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.dll
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\refint\DataAcess.dll
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.pdb
+D:\Back-END .NET\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\ref\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.deps.json
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\BussinessObject2.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\bin\Debug\net5.0\BussinessObject2.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\refint\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\DataAcess\obj\Debug\net5.0\ref\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.deps.json
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\bin\Debug\net5.0\DataAcess.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\bin\Debug\net5.0\BussinessObject2.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\bin\Debug\net5.0\BussinessObject2.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\refint\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\DataAcess\obj\Debug\net5.0\ref\DataAcess.dll

@@ -1,0 +1,305 @@
+F:\PRN_3wVNTT\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.exe
+F:\PRN_3wVNTT\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.deps.json
+F:\PRN_3wVNTT\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.json
+F:\PRN_3wVNTT\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.dev.json
+F:\PRN_3wVNTT\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.dll
+F:\PRN_3wVNTT\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.pdb
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.AssemblyReference.cache
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfoInputs.cache
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfo.cs
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.CoreCompileInputs.cache
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.dll
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\refint\frmManagement.dll
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.pdb
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.genruntimeconfig.cache
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\ref\frmManagement.dll
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Form1.resources
+F:\PRN_3wVNTT\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.GenerateResource.cache
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.exe
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.deps.json
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.json
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.dev.json
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.pdb
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\BussinessObject.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\DataAcess.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Repository.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\Repository.pdb
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\BussinessObject.pdb
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\DataAcess.pdb
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.AssemblyReference.cache
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Form1.resources
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Login.resources
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.StaffForm.resources
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.GenerateResource.cache
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfoInputs.cache
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfo.cs
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.CoreCompileInputs.cache
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.CopyComplete
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.dll
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\refint\frmManagement.dll
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.pdb
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.genruntimeconfig.cache
+D:\Back-END .NET\GroupProject\frmManagement\obj\Debug\net5.0-windows\ref\frmManagement.dll
+D:\Back-END .NET\GroupProject\frmManagement\bin\Debug\net5.0-windows\appsettings.json
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.AssemblyReference.cache
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Form1.resources
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Login.resources
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.StaffForm.resources
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.GenerateResource.cache
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfoInputs.cache
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfo.cs
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.CoreCompileInputs.cache
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\refint\frmManagement.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.pdb
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\appsettings.json
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.exe
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.deps.json
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.json
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.dev.json
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.pdb
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\BussinessObject2.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\DataAcess.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Repository.dll
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Repository.pdb
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\BussinessObject2.pdb
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\DataAcess.pdb
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.CopyComplete
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.genruntimeconfig.cache
+D:\Back-END .NET\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\ref\frmManagement.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.exe
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.deps.json
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\BussinessObject2.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\Repository.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\BussinessObject2.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\bin\Debug\net5.0-windows\DataAcess.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Form1.resources
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Login.resources
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.StaffForm.resources
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\refint\frmManagement.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\ref\frmManagement.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmFoodManagement.resources
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmNewOrUpdateTable.resources
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmTablee.resources
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmReservation.resources
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmOrder.resources
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmAccount.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.exe
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.deps.json
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\frmManagement.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\BussinessObject2.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\Repository.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\BussinessObject2.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\bin\Debug\net5.0-windows\DataAcess.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Form1.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmAccount.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmFoodManagement.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmNewOrUpdateTable.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmOrder.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmReservation.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.frmTablee.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Login.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.StaffForm.resources
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\refint\frmManagement.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\frmManagement.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\frmManagement\obj\Debug\net5.0-windows\ref\frmManagement.dll

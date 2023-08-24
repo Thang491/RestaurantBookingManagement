@@ -1,0 +1,73 @@
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Back-END .NET\GroupProject\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Back-END .NET\GroupProject\Repository\bin\Debug\net5.0\Repository.dll
+D:\Back-END .NET\GroupProject\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Back-END .NET\GroupProject\Repository\bin\Debug\net5.0\BussinessObject.dll
+D:\Back-END .NET\GroupProject\Repository\bin\Debug\net5.0\DataAcess.dll
+D:\Back-END .NET\GroupProject\Repository\bin\Debug\net5.0\DataAcess.pdb
+D:\Back-END .NET\GroupProject\Repository\bin\Debug\net5.0\BussinessObject.pdb
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\Repository.dll
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\refint\Repository.dll
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Back-END .NET\GroupProject\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Back-END .NET\GroupProject\GroupProject\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Back-END .NET\GroupProject\GroupProject\Repository\bin\Debug\net5.0\Repository.dll
+D:\Back-END .NET\GroupProject\GroupProject\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Back-END .NET\GroupProject\GroupProject\Repository\bin\Debug\net5.0\BussinessObject2.dll
+D:\Back-END .NET\GroupProject\GroupProject\Repository\bin\Debug\net5.0\DataAcess.dll
+D:\Back-END .NET\GroupProject\GroupProject\Repository\bin\Debug\net5.0\DataAcess.pdb
+D:\Back-END .NET\GroupProject\GroupProject\Repository\bin\Debug\net5.0\BussinessObject2.pdb
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.dll
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\refint\Repository.dll
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Back-END .NET\GroupProject\GroupProject\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\bin\Debug\net5.0\BussinessObject2.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\bin\Debug\net5.0\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\bin\Debug\net5.0\DataAcess.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\bin\Debug\net5.0\BussinessObject2.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\refint\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProjectSogood\GroupProject\GroupProject\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\bin\Debug\net5.0\BussinessObject2.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\bin\Debug\net5.0\DataAcess.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\bin\Debug\net5.0\DataAcess.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\bin\Debug\net5.0\BussinessObject2.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\refint\Repository.dll
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\admin\OneDrive\Desktop\GroupProject\Repository\obj\Debug\net5.0\ref\Repository.dll
